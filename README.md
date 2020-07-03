@@ -3,9 +3,8 @@
 Anda dapat menggunakan [editor di GitHub](https://github.com/Page-Halaman-Shop/Toko-KlikShop01/edit/master/README.md) untuk memelihara dan mempratinjau konten situs web Anda dalam file Markdown. 
 Kapan pun Anda berkomitmen pada repositori ini, Halaman GitHub akan menjalankan [Jekyll](https://jekyllrb.com/) untuk membangun kembali halaman-halaman di situs Anda, dari konten di file Markdown Anda.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Penurunan harga 
+Penurunan harga adalah sintaks yang ringan dan mudah digunakan untuk menata tulisan Anda. Ini termasuk konvensi untuk
 
 ```markdown
 Syntax highlighted code block
