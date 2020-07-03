@@ -24,12 +24,12 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Untuk detail lebih lanjut lihat [GitHub Flavoured Markdown] (https://guides.github.com/features/mastering-markdown/). 
 
-### Jekyll Themes
+### Tema Jekyll 
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Page-Halaman-Shop/Toko-KlikShop01/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Situs Halaman Anda akan menggunakan tata letak dan gaya dari tema Jekyll yang telah Anda pilih dalam [pengaturan repositori] Anda (https://github.com/Page-Halaman-Shop/Toko-KlikShop01/settings). 
+Nama tema ini disimpan dalam file konfigurasi Jekyll `_config.ymkam
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Dukungan atau Kontak 
+Mengalami masalah dengan Halaman? Lihat [dokumentasi]kami(https://help.github.com/categories/github-pages-basics/) atau [dukungan kontak](https://github.com/contact) dan kami akan membantu Anda mengurutkannya di luar.
