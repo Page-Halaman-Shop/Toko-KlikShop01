@@ -1,8 +1,7 @@
 ## Selamat Datang Di Halaman KLIK-SHOP01
 
-You can use the [editor on GitHub](https://github.com/Page-Halaman-Shop/Toko-KlikShop01/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Anda dapat menggunakan [editor di GitHub](https://github.com/Page-Halaman-Shop/Toko-KlikShop01/edit/master/README.md) untuk memelihara dan mempratinjau konten situs web Anda dalam file Markdown. 
+Kapan pun Anda berkomitmen pada repositori ini, Halaman GitHub akan menjalankan [Jekyll](https://jekyllrb.com/) untuk membangun kembali halaman-halaman di situs Anda, dari konten di file Markdown Anda.
 
 ### Markdown
 
