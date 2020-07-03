@@ -33,3 +33,7 @@ Nama tema ini disimpan dalam file konfigurasi Jekyll `_config.ymkam
 
 ### Dukungan atau Kontak 
 Mengalami masalah dengan Halaman? Lihat [dokumentasi]kami(https://help.github.com/categories/github-pages-basics/) atau [dukungan kontak](https://github.com/contact) dan kami akan membantu Anda mengurutkannya di luar.
+
+# Undang Via Tautan
+
+[WatsApp](https://chat.whatsapp.com/Gx2zTamBkMH1KcdEq7Zsa3)
